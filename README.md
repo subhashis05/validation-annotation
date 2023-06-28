@@ -35,7 +35,6 @@ public class User {
 
 To make the validation work we need to use @Validated and @Valid annotations from javax.validation. Below is the example on sample controller:
 
-```java
 import javax.validation.Valid;
 
 import org.springframework.http.ResponseEntity;
